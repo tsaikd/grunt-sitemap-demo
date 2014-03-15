@@ -1,0 +1,17 @@
+{
+  "name": "grunt-sitemap-demo",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": ">=0",
+    "grunt-sitemap": ">=0",
+    "load-grunt-tasks": ">=0"
+  },
+  "author": "tsaikd <tsaikd@gmail.com>",
+  "license": "LGPLv3",
+  "homepage": "https://github.com/tsaikd/grunt-sitemap-demo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tsaikd/grunt-sitemap-demo"
+  },
+  "main": "index.html"
+}
