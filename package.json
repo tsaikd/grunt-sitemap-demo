@@ -1,6 +1,6 @@
 {
   "name": "grunt-sitemap-demo",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "devDependencies": {
     "grunt": ">=0",
     "grunt-sitemap": "XhmikosR/grunt-sitemap#all-patches-merged",
