@@ -1,9 +1,9 @@
 {
   "name": "grunt-sitemap-demo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "devDependencies": {
     "grunt": ">=0",
-    "grunt-sitemap": ">=0",
+    "grunt-sitemap": "1.1.0",
     "load-grunt-tasks": ">=0"
   },
   "author": "tsaikd <tsaikd@gmail.com>",

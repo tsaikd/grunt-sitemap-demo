@@ -14,55 +14,73 @@
 </url>
 <url>
   <loc>https://github.com/tsaikd/grunt-sitemap-demo/node_modules/grunt/node_modules/colors/examplehtml</loc>
-  <lastmod>2014-03-15T14:32:55.000Z</lastmod>
+  <lastmod>2014-09-15T12:24:30.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://github.com/tsaikd/grunt-sitemap-demo/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/underscorestring/test/test.html</loc>
+  <lastmod>2014-09-15T12:24:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://github.com/tsaikd/grunt-sitemap-demo/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/underscorestring/test/test_standalone.html</loc>
+  <lastmod>2014-09-15T12:24:31.000Z</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://github.com/tsaikd/grunt-sitemap-demo/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/underscorestring/test/test_underscore/</loc>
+  <lastmod>2014-09-15T12:24:32.000Z</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.5</priority>
 </url>
 <url>
   <loc>https://github.com/tsaikd/grunt-sitemap-demo/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/node_modules/underscorestring/test/test.html</loc>
-  <lastmod>2014-03-15T14:32:57.000Z</lastmod>
+  <lastmod>2014-09-15T12:24:34.000Z</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.5</priority>
 </url>
 <url>
   <loc>https://github.com/tsaikd/grunt-sitemap-demo/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/node_modules/underscorestring/test/test_standalone.html</loc>
-  <lastmod>2014-03-15T14:32:57.000Z</lastmod>
+  <lastmod>2014-09-15T12:24:34.000Z</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.5</priority>
 </url>
 <url>
   <loc>https://github.com/tsaikd/grunt-sitemap-demo/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/node_modules/underscorestring/test/test_underscore/</loc>
-  <lastmod>2014-03-15T14:32:57.000Z</lastmod>
+  <lastmod>2014-09-15T12:24:34.000Z</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.5</priority>
 </url>
 <url>
   <loc>https://github.com/tsaikd/grunt-sitemap-demo/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/node_modules/underscore/indexhtml</loc>
-  <lastmod>2014-03-15T14:32:57.000Z</lastmod>
+  <lastmod>2014-09-15T12:24:33.000Z</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.5</priority>
 </url>
 <url>
   <loc>https://github.com/tsaikd/grunt-sitemap-demo/node_modules/grunt/node_modules/underscorestring/test/test.html</loc>
-  <lastmod>2014-03-15T14:32:55.000Z</lastmod>
+  <lastmod>2014-09-15T12:24:31.000Z</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.5</priority>
 </url>
 <url>
   <loc>https://github.com/tsaikd/grunt-sitemap-demo/node_modules/grunt/node_modules/underscorestring/test/test_standalone.html</loc>
-  <lastmod>2014-03-15T14:32:55.000Z</lastmod>
+  <lastmod>2014-09-15T12:24:31.000Z</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.5</priority>
 </url>
 <url>
   <loc>https://github.com/tsaikd/grunt-sitemap-demo/node_modules/grunt/node_modules/underscorestring/test/test_underscore/temp_tests.html</loc>
-  <lastmod>2014-03-15T14:32:55.000Z</lastmod>
+  <lastmod>2014-09-15T12:24:31.000Z</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.5</priority>
 </url>
 <url>
   <loc>https://github.com/tsaikd/grunt-sitemap-demo/node_modules/grunt/node_modules/underscorestring/test/test_underscore/test.html</loc>
-  <lastmod>2014-03-15T14:32:55.000Z</lastmod>
+  <lastmod>2014-09-15T12:24:31.000Z</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.5</priority>
 </url>
