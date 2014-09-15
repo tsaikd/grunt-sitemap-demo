@@ -1,6 +1,6 @@
 {
   "name": "grunt-sitemap-demo",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "devDependencies": {
     "grunt": ">=0",
     "grunt-sitemap": "XhmikosR/grunt-sitemap#all-patches-merged",
@@ -8,7 +8,7 @@
   },
   "author": "tsaikd <tsaikd@gmail.com>",
   "license": "LGPLv3",
-  "homepage": "https://github.com/tsaikd/grunt-sitemap-demo",
+  "homepage": "https://github.com/tsaikd/grunt-sitemap-demo/",
   "repository": {
     "type": "git",
     "url": "https://github.com/tsaikd/grunt-sitemap-demo"
